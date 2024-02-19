@@ -33,3 +33,5 @@ class [[eosio::contract("cfhello")]] cfhello : public contract {
         print( "Hi, ", user);
       }
 };
+Hi, phletchv
+
